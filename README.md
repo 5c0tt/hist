@@ -1,4 +1,5 @@
-Last Modified 08/30/14 — 12:42:09 AM • Scott Haneda • [@cometbus](https://twitter.com/cometbus)
+08.08.2015 — 07:40:10 PM -0700  
+Scott Haneda [@scotthaneda](https://twitter.com/scotthaneda)
 
 # Hist — A quick shell history parser
 
